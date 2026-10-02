@@ -21,7 +21,7 @@ DeckMind turns lecture slides into flashcards, quizzes and a personalised exam p
 | **8** | database tables, all behind row-level security |
 | **€5** | a month for Pro, through Stripe |
 
-Built solo over about four months, in 2026.
+Built by a team of four at Studio Alpakin over about four months, in 2026.
 
 ---
 
